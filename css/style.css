@@ -1058,3 +1058,8 @@ textarea {
 .lg-hide {
     display:none;
 }
+
+
+.btnwhite{
+    color:rgba(255,255,255,1);
+}
